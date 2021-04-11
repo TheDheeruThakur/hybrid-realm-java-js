@@ -14,7 +14,7 @@
         },
         "secret_config": {
             "signingKeys": [
-                "itismysigningkeywhichiuseforsigning"
+                "myKey"
             ]
         },
         "disabled": false
