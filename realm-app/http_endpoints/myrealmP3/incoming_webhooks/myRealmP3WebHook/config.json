@@ -1,0 +1,14 @@
+{
+    "name": "myRealmP3WebHook",
+    "run_as_authed_user": true,
+    "run_as_user_id": "",
+    "run_as_user_id_script_source": "",
+    "can_evaluate": {},
+    "options": {
+        "httpMethod": "GET",
+        "validationMethod": "NO_VALIDATION"
+    },
+    "respond_result": true,
+    "fetch_custom_user_data": true,
+    "create_user_on_auth": true
+}
