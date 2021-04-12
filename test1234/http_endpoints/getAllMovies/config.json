@@ -1,0 +1,6 @@
+{
+    "name": "getAllMovies",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
