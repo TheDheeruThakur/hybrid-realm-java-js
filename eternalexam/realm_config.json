@@ -1,7 +1,7 @@
 {
     "app_id": "ee-dev-iqlfw",
     "config_version": 20210101,
-    "name": "EE-Dev",
+    "name": "EE-Dev-1",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
     "environment": "development"
