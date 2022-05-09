@@ -6,7 +6,7 @@
         "_partition": {
             "bsonType": "string"
         },
-       "test": {
+        "test": {
             "bsonType": "string"
         }
     },
