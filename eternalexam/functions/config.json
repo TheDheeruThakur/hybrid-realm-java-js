@@ -1,7 +1,7 @@
-[ 
+[
     {
-    "name": "createNewUserDocument",
-    "private": true,
-    "can_evaluate": {}
-   }
+        "name": "createNewUserDocument",
+        "private": true,
+        "can_evaluate": {}
+    }
 ]
